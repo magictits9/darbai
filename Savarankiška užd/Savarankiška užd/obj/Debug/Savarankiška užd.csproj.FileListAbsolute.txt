@@ -1,0 +1,7 @@
+C:\Users\titas\source\repos\Savarankiška užd\Savarankiška užd\bin\Debug\Savarankiška užd.exe.config
+C:\Users\titas\source\repos\Savarankiška užd\Savarankiška užd\bin\Debug\Savarankiška užd.exe
+C:\Users\titas\source\repos\Savarankiška užd\Savarankiška užd\bin\Debug\Savarankiška užd.pdb
+C:\Users\titas\source\repos\Savarankiška užd\Savarankiška užd\obj\Debug\Savarankiška užd.csproj.AssemblyReference.cache
+C:\Users\titas\source\repos\Savarankiška užd\Savarankiška užd\obj\Debug\Savarankiška užd.csproj.CoreCompileInputs.cache
+C:\Users\titas\source\repos\Savarankiška užd\Savarankiška užd\obj\Debug\Savarankiška užd.exe
+C:\Users\titas\source\repos\Savarankiška užd\Savarankiška užd\obj\Debug\Savarankiška užd.pdb

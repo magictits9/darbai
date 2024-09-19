@@ -1,0 +1,7 @@
+C:\Users\titas\source\repos\labaratorinis\labaratorinis\bin\Debug\labaratorinis.exe.config
+C:\Users\titas\source\repos\labaratorinis\labaratorinis\bin\Debug\labaratorinis.exe
+C:\Users\titas\source\repos\labaratorinis\labaratorinis\bin\Debug\labaratorinis.pdb
+C:\Users\titas\source\repos\labaratorinis\labaratorinis\obj\Debug\labaratorinis.csproj.AssemblyReference.cache
+C:\Users\titas\source\repos\labaratorinis\labaratorinis\obj\Debug\labaratorinis.csproj.CoreCompileInputs.cache
+C:\Users\titas\source\repos\labaratorinis\labaratorinis\obj\Debug\labaratorinis.exe
+C:\Users\titas\source\repos\labaratorinis\labaratorinis\obj\Debug\labaratorinis.pdb

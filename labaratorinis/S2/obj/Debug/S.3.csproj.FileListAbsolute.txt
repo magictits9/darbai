@@ -1,0 +1,7 @@
+C:\Users\titas\source\repos\labaratorinis\S2\bin\Debug\S2.exe.config
+C:\Users\titas\source\repos\labaratorinis\S2\bin\Debug\S2.exe
+C:\Users\titas\source\repos\labaratorinis\S2\bin\Debug\S2.pdb
+C:\Users\titas\source\repos\labaratorinis\S2\obj\Debug\S.3.csproj.AssemblyReference.cache
+C:\Users\titas\source\repos\labaratorinis\S2\obj\Debug\S.3.csproj.CoreCompileInputs.cache
+C:\Users\titas\source\repos\labaratorinis\S2\obj\Debug\S2.exe
+C:\Users\titas\source\repos\labaratorinis\S2\obj\Debug\S2.pdb

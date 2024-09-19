@@ -1,0 +1,5 @@
+Jonas;	Vala?i?nas;	1992-06-06;	2,11;	Center;	New Orleans Pelicans;	TRUE;	FALSE
+Mantas;	Kalnietis;	1986-09-06;	1,91;	Guard;	Virtus Bologna;	TRUE;	TRUE
+Domantas;	Sabonis;	1996-05-03;	2,06;	Forward	Sacramento; Kings;	TRUE;	FALSE
+Edgaras	Ulanovas;	1994-01-13;	1,98;	Forward;	Zalgiris; 	TRUE;	FALSE
+Rokas;	Jokubaitis;	2000-12-19;	1,9;	Guard;	Barcelona;	TRUE;	FALSE;
